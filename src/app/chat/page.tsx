@@ -1,5 +1,5 @@
-import { ContactStact } from './components/ContactStact';
-import { TextArea } from './components/TextArea';
+import { ContactStact } from '../../components/ContactStact';
+import { TextArea } from '../../components/TextArea';
 
 export default function Home() {
   return (
